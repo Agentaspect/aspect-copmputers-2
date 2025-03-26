@@ -4,7 +4,7 @@
             <div class="hero-content bg-gradient-blue white flow">
                 <h1>Power, Speed, Innovation, Reliability.</h1>
                 <p class="white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque adipisci illum, debitis rerum incidunt laborum! Dolor.</p>
-                <a href="/blog" class="button bg-gradient-purple white"> Get Started</a>
+                <a href="/contact" class="button bg-gradient-purple white"> Get Started</a>
             </div>
         </div>
     </div>

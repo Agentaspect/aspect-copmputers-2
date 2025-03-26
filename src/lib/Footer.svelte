@@ -2,7 +2,7 @@
     <div class="outer bg-black">
         <div class="inner spread-apart">
             <a href="/"><img src="/logo.png" alt="light logo"></a>
-            <a href="/blog" class="button bg-gradient-blue white"> Get Started</a>
+            <a href="/contact" class="button bg-gradient-blue white"> Get Started</a>
         </div>
     </div>
 </footer>
