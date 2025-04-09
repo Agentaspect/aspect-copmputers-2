@@ -4,7 +4,7 @@
     export let data;
 </script>
 
- <Title name="Blog" />
+ <Title name="Products" />
 
  <section>
  <div class="outer">
