@@ -1,6 +1,5 @@
 <script>
-    export let post;
+    export let data;
 </script>
 
-{post.title}
-<p>{post.body}</p>
+{data}
