@@ -1,6 +1,24 @@
 <script>
+	import Title from '$lib/Title.svelte'
 
-    export let data;
+	export let data
 </script>
 
-{data}
+<Title name={data.post.title} />
+
+<section>
+	<div class="outer">
+		<div class="inner">
+			<div class="post-content flow">
+				<img src={data.post} alt={data.post.title} />
+				<div class="flow">{@html data.post.content}</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<style>
+	.post-content {
+		max-width: 65ch;
+	}
+</style>
