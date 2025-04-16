@@ -2,8 +2,10 @@
 	import Box from "$lib/Box.svelte";
 	import HeadingBox from "$lib/HeadingBox.svelte";
 	import Hero from "$lib/hero.svelte";
+    import Title from "$lib/Title.svelte";
 
 </script>
+<Title name="Home" />
 <Hero/>
 
 <section>

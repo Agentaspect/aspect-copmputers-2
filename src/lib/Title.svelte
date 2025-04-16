@@ -10,8 +10,8 @@
     </div>
 </section>
 
-<!-- <style>
+<style>
     h1 {
         text-transform: capitalize;
     }
-</style> -->
+</style>
