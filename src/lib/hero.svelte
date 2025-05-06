@@ -12,7 +12,7 @@
 
 <style>
     .outer {
-        background-image:(comp1.jpg);
+        background-image:url(comp1.jpg);
         background-size: cover;
         background-position: center;
     }
