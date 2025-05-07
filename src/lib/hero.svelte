@@ -5,7 +5,7 @@
             <div class="inner">
                 <div class="hero-content bg-blue white flow">
                     <h1>Power, Speed, Innovation, Reliability.</h1>
-                    <p class="white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque adipisci illum, debitis rerum incidunt laborum! Dolor.</p>
+                    <p class="white">Build your perfect PC with ease. Whether you're a beginner or a pro, we can help you every step of the way.</p>
                     <a href="/contact" class="button bg-gradient-purple white"> Get Started</a>
                 </div>
             </div>
