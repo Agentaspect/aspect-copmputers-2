@@ -41,7 +41,7 @@
     .hero-content {
         position: absolute; /* Position the hero-content absolutely */
         top: 50%; /* Center vertically */
-        left: 50%; /* Center horizontally */
+        left: 20%; /* Center horizontally */
         transform: translate(-50%, -50%); /* Adjust for centering */
         max-width: 32rem;
         padding: 3rem;
