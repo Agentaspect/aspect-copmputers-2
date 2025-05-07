@@ -14,6 +14,7 @@
     .outer {
         /* background-image:url(comp1.jpg); */
         background-size: cover;
+        background-image: url('comp1.jpg');
         background-position: center;
     }
 
