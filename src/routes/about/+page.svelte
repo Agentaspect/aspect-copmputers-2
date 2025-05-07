@@ -13,7 +13,7 @@
                 <p>Hi, I’m Agent_aspect, a  content creator on YouTube. I’ve always loved storytelling, technology, and sharing what 
                     I learn with others. My channel started as a fun side project, and it quickly grew into something much bigger.</p>
 
-                <p>As a YouTuber, I focus on halariosly out of context shenanagins, bringing my audience along for the ride. I put a lot of effort into each video—from planning and 
+                <p>As a YouTuber, I focus on hilariously out of context shenanagins, bringing my audience along for the ride. I put a lot of effort into each video—from planning and 
                     filming to editing and connecting with viewers. My goal is to create content that’s both entertaining and useful.</p>
 
                 <p>I’m constantly learning, growing, and exploring new ideas to keep my channel fresh and exciting.
