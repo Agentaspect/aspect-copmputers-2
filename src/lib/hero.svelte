@@ -14,7 +14,7 @@
     .outer {
         /* background-image:url(comp1.jpg); */
         background-size: cover;
-        background-image: url('comp1.jpg');
+        background-image: url('chez.jpg');
         background-position: center;
     }
 
@@ -28,3 +28,4 @@
 
      }
 </style>
+
