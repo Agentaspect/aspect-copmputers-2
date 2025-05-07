@@ -12,14 +12,17 @@
 
 <style>
     .outer {
-        /* background-image:url(comp1.jpg); */
+        background-image:url(comp1.jpg);
         background-size: cover;
-        background-image: url('chez.jpg');
         background-position: center;
     }
 
     .inner {
         padding-block: 15rem;
+
+        background-image:url(comp1.jpg);
+        background-size: cover;
+        background-position: center;
     }
     .hero-content {
         max-width: 32rem;
