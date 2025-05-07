@@ -12,7 +12,7 @@
 
 <style>
     .outer {
-        background-image:url(comp1.jpg);
+        /* background-image:url(comp1.jpg); */
         background-size: cover;
         background-position: center;
     }
@@ -20,10 +20,10 @@
     .inner {
         padding-block: 15rem;
     }
-    .hero-content { 
+    .hero-content {
         max-width: 32rem;
          padding: 3rem;
          border-radius: 1rem;
 
-     } 
+     }
 </style>
