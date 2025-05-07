@@ -7,17 +7,19 @@
  <section>
     <div class="outer">
         <div class="inner flow">
-            <h2>Subheading One</h2>
+            <h2>About me </h2>
             <div class="columns flow">
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam recusandae
-                    magni architecto perspiciatis ullam perferendis commodi! 
-                    Labore et ipsa nemo autem deleniti sed nihil cumque id, aliquam facere voluptate! Accusantium, hic fugiat?</p>
+                <p>Hi, I’m Agent_aspect, a  content creator on YouTube. I’ve always loved storytelling, technology, and sharing what 
+                    I learn with others. My channel started as a fun side project, and it quickly grew into something much bigger.</p>
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia corporis, numquam voluptas quisquam, 
-                    blanditiis voluptatem praesentium minima vel odio illo reiciendis.</p>
+                <p>As a YouTuber, I focus on halariosly out of context shenanagins, bringing my audience along for the ride. I put a lot of effort into each video—from planning and 
+                    filming to editing and connecting with viewers. My goal is to create content that’s both entertaining and useful.</p>
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolore explicabo hic.</p>
+                <p>I’m constantly learning, growing, and exploring new ideas to keep my channel fresh and exciting.
+                     Whether it’s collaborating with others,
+                     testing new gear, or diving into trending topics, I’m all in. T
+                     hanks for being part of the journey! </p>
             </div>
         </div>
     
@@ -27,17 +29,23 @@
  <section>
     <div class="outer bg-blue white">
         <div class="inner flow">
-            <h2>Subheading Two</h2>
+            <h2>My team</h2>
             <div class="columns flow">
 
-                <p class="white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam recusandae
-                    magni architecto perspiciatis ullam perferendis commodi! 
-                    Labore et ipsa nemo autem deleniti sed nihil cumque id, aliquam facere voluptate! Accusantium, hic fugiat?</p>
+                <p class="white">We’re a passionate team of creators, editors, and PC-building enthusiasts who work together 
+                    to bring you top-quality content and services. From gaming rigs to custom builds, each team member brings hands-on
+                     experience and technical know-how to every project. Whether it’s building,
+                     benchmarking, or showcasing, we love what we do—and we love sharing it with you.</p>
 
-                <p class="white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia corporis, numquam voluptas quisquam, 
-                    blanditiis voluptatem praesentium minima vel odio illo reiciendis.</p>
+                <p class="white">Our mission is simple: to deliver the best product possible. Every video,
+                     guide, and build is crafted with care, tested for performance, and designed to help you make informed decisions.
+                     We know what it takes to build a great PC because we've done it—again and 
+                     again—for ourselves and for others.</p>
 
-                <p class="white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolore explicabo hic.</p>
+                <p class="white">We believe in teamwork, creativity, and putting quality first.
+                     Our content is a collaboration of skills and passion, fueled by a love for tech and a drive to constantly improve. When you watch our videos
+                     or follow our builds, you're seeing the result of real experience and a team
+                      that’s all-in on helping you build the perfect setup.</p>
             </div>
         </div>
     
@@ -47,24 +55,26 @@
  <section>
     <div class="outer">
         <div class="inner flow wide-text">
-            <h2>Subheading Three</h2>
+            <h2>our proses</h2>
             <img class="float-right" src="chez.jpg" alt="computers on a desk"/>
            
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam recusandae
-                    magni architecto perspiciatis ullam perferendis commodi! 
-                    Labore et ipsa nemo autem deleniti sed nihil cumque id, aliquam facere voluptate! Accusantium, hic fugiat?</p>
+            <p>
+                Our process is simple and designed to make your custom PC build as smooth as possible. 
+                First, head over to <a href="https://pcpartpicker.com/list/" target="_blank">PCPartPicker</a> and create your ideal build. 
+                Once you're happy with your setup, submit the link to us through the contact form on our website.
+              </p>
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia corporis, numquam voluptas quisquam, 
-                    blanditiis voluptatem praesentium minima vel odio illo reiciendis.</p>
+                <p>After we receive your submission, our team will review your build and get in touch with you
+                     to go over the details. We’ll discuss any needed adjustments, confirm compatibility, and
+                      finalize the plan before moving forward.
+                     Our goal is to make sure your build is optimized for performance, budget, and your specific needs.</p>
 
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio animi maxime, totam sunt a quia odit itaque possimus
-                     incidunt doloremque dolore maiores quidem obcaecati eveniet quibusdam enim excepturi culpa eos ipsum ipsa! Suscipit 
-                     quasi magni officiis laboriosam cumque. Blanditiis, assumenda nostrum, pariatur voluptatem explicabo beatae sunt numquam
-                      voluptates maiores commodi excepturi fuga vitae fugiat at optio, qui itaque maxime neque minus quia non deleniti nesciunt 
-                      ullam dolorem? Necessitatibus earum tenetur qui saepe corporis. Non exercitationem voluptatum doloremque quaerat alias 
-                    consectetur saepe maxime facilis facere modi, esse corporis assumenda nesciunt quas aliquam officia labore quam repellendus
-                     autem reprehenderit, suscipit eaque ex?</p>
+                <p>Once everything is confirmed, we’ll handle the purchasing,
+                     assembly, and testing process. You’ll be kept in the loop 
+                     the whole way, and we won’t ship it until it’s 
+                    been fully tested and ready to power on right out of the box. It’s custom PC building made
+                     easy, with expert support at every step.</p>
             
         </div>
     
