@@ -55,7 +55,7 @@
  <section>
     <div class="outer">
         <div class="inner flow wide-text">
-            <h2>our proses</h2>
+            <h2>Our Process</h2>
             <img class="float-right" src="chez.jpg" alt="computers on a desk"/>
            
 
