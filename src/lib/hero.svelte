@@ -1,7 +1,9 @@
 <section>
     <div class="outer">
+        <img src="/comp1.jpg" alt="comp">
         <div class="inner">
             <div class="hero-content bg-gradient-blue white flow">
+                
                 <h1>Power, Speed, Innovation, Reliability.</h1>
                 <p class="white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque adipisci illum, debitis rerum incidunt laborum! Dolor.</p>
                 <a href="/contact" class="button bg-gradient-purple white"> Get Started</a>
@@ -11,18 +13,18 @@
 </section>
 
 <style>
-    .outer {
+    /* .outer {
         background-image:url(comp1.jpg);
         background-size: cover;
         background-position: center;
-    }
+    } */
 
     .inner {
         padding-block: 15rem;
 
-        background-image:url(comp1.jpg);
+        /* background-image:url(comp1.jpg);
         background-size: cover;
-        background-position: center;
+        background-position: center; */
     }
     .hero-content {
         max-width: 32rem;
